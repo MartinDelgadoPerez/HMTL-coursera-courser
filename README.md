@@ -1,3 +1,3 @@
 # HTML-coursera-course
 
-Solution fot week 2's assignment.
+Solution for week 2's assignment.
